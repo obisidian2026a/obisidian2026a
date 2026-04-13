@@ -21,7 +21,7 @@ Unfortunately 90% of my best projects are private repo.I have added two backend 
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** with 2+ years of experience building production-grade systems across the full stack — from scalable backend APIs and microservices to frontend interfaces, mobile apps, desktop tools, trading bots, and IoT integrations. I specialize in designing clean architectures that are built to scale, and I thrive in environments where product quality and engineering rigour go hand in hand. Currently pursuing a **BS in CSE at Presidency University, Bangladesh**, while working full-time in the industry.
+I'm a **Software Engineer** with 2+ years of experience building production-grade systems across the full stack — from scalable backend APIs and microservices to frontend interfaces, mobile apps, desktop tools, trading bots, and IoT integrations. I specialize in designing clean architectures that are built to scale, and I thrive in environments where product quality and engineering rigour go hand in hand.
 
 ---
 
