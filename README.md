@@ -60,44 +60,23 @@ I'm a **Software Engineer** with 2+ years of experience building production-grad
 
 ---
 
-## 💼 Experience
-
-**🔹 Fullstack AI Engineer — [Coredevs Ltd](https://coredevs.io), Dhaka** &nbsp;&nbsp;`Jan 2026 – Present`
-- 🥇 **Developer of the Month** in first month — leading MVP of a **geospatial sports app** for Y Combinator
-- 📈 Built microservice-based **Binance Futures trading bots** with backtesting, live trading & multi-instance execution
-- 🔌 Developed an **IoT API hub** with PLC data extraction, reverse engineering, and automated scraping
-
-<br/>
-
-**🔹 Software Engineer (Backend) — Appifydevs, Dhaka** &nbsp;&nbsp;`Mar 2025 – Dec 2025`
-- 🏨 Architected & led 80% of an **enterprise hotel management platform** (payroll, attendance, workforce automation)
-- 🛒 Delivered multiple **e-commerce & SaaS** products with AI/LLM integrations and payment systems
-- ⚙️ Managed **VPS & AWS** environments with CI/CD, S3, DigitalOcean Spaces, and MinIO
-
-<br/>
-
-**🔹 Jr. Fullstack Developer — Qwik IT Services, Canada** &nbsp;&nbsp;`Jun 2024 – Feb 2025` &nbsp;*(Remote)*
-- 🛍️ Built e-commerce platforms, landing pages, and admin dashboards across frontend and backend
-- 🏢 Contributed to an enterprise **SaaS talent optimization** platform
-- 📐 Delivered responsive, pixel-perfect web apps with full documentation
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=imran-binhasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=imran-coredevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran-binhasan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran-coredevs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imran-binhasan&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imran-coredevs&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=imran-binhasan&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=imran-coredevs&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 
 </div>
 
