@@ -4,7 +4,7 @@
 
 <br/>
 
-### 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 imranbinhasan.work@gmail.com &nbsp;|&nbsp; 📞 +880-XXXXXXXXXX
+### 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 imranbinhasan.work@gmail.com &nbsp;|&nbsp; 📞 +880-1601262260
 
 </div>
 
@@ -83,21 +83,6 @@ I'm a **Software Engineer** with 2+ years of experience building production-grad
 
 ---
 
-## 🚀 Featured Projects
-
-**[🛒 MegaMart](https://github.com/imran-binhasan/megamart)** — Multi-Vendor E-Commerce Platform
-- Dynamic **RBAC** with secure role-permission guards using **NestJS & PostgreSQL**
-- Async workflows & background jobs via **RabbitMQ** and **Redis**; APIs documented with Swagger
-- Payments: **SSLCommerz · bKash · Stripe · PayPal**
-
-<br/>
-
-**[📊 HiveCRM](https://github.com/imran-binhasan/hivecrm)** — Scalable CRM Platform
-- Secure **GraphQL** API managing projects, leads, employees, attendance & reports
-- Real-time **GraphQL subscriptions**, audit logging, caching & performance monitoring
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -125,10 +110,6 @@ I'm a **Software Engineer** with 2+ years of experience building production-grad
 <a href="mailto:imranbinhasan.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 ---
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 *⭐ Star a repo if you find it useful — it means a lot!*
 
