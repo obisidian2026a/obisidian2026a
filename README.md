@@ -1,5 +1,7 @@
-My real github account is temporay flagged so im unable to show my works, this is a temporary account made only for the assigment
-<img width="1536" height="817" alt="image" src="https://github.com/user-attachments/assets/56af1aaf-9582-4868-ab02-4d647e34c057" />
+My real github account is temporay flagged so im unable to show my works, this is a temporary account made only for the assigment.
+Unfortunately 90% of my best projects are private repo.I have added two backend repo , one is multivendor ecommerce & another is crm, but unable to deploy since it requires me to purchase a vps to function since dependency like redis, message broker, postgres (contains transaction & advance feats so free platforms like neon wont work).
+
+<img width="1453" height="773" alt="image" src="https://github.com/user-attachments/assets/5d57a0b8-6277-49be-a21d-f84bd08ab4de" />
 
 
 
