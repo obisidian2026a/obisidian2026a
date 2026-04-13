@@ -28,8 +28,7 @@ I'm a **Software Engineer** with 2+ years of experience building production-grad
 ## 🔭 What I'm Currently Up To
 
 - 🏆 Leading MVP of a **geospatial sports app** for Y Combinator submission at Coredevs Ltd
-- 🤖 Building a **config-driven Binance Futures trading bot** with live multi-instance execution & backtesting
-- 🌐 Developing an **IoT API hub** with PLC data extraction and reverse engineering
+- 🤖 Building multiple **automation & trading bot** with live multi-instance execution & backtesting
 - ☁️ Managing multi-environment **AWS & VPS deployments** with automated CI/CD pipelines
 - 📚 Deepening expertise in **distributed systems**, **GraphQL subscriptions**, and **AI/LLM tooling**
 
