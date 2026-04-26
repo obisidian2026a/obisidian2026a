@@ -1,14 +1,4 @@
-My real github account is temporay flagged so im unable to show my works, this is a temporary till my main accounts recovered.
-
 <img width="1453" height="773" alt="image" src="https://github.com/user-attachments/assets/5d57a0b8-6277-49be-a21d-f84bd08ab4de" />
-
-
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Imran%20Bin%20Hasan&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20AI%20Engineer%20%E2%80%94%20Backend%20%7C%20Cloud%20%7C%20Open%20Source&descAlignY=60&descSize=18&animation=fadeIn" />
-
-<br/>
 
 ### 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 imranbinhasan.work@gmail.com &nbsp;|&nbsp; 📞 +880-1601262260
 
